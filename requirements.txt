@@ -1,0 +1,16 @@
+
+---
+
+### `requirements.txt` file (simple text file):
+
+```text
+pandas
+numpy
+requests
+beautifulsoup4
+geocoder
+folium
+scikit-learn
+matplotlib
+geopy
+lxml
